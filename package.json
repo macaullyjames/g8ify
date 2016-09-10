@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/macaullyjames/g8ify/issues"
   },
-  "homepage": "https://github.com/macaullyjames/g8ify#readme"
+  "homepage": "https://github.com/macaullyjames/g8ify#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "github": "^3.0.0"
+  }
 }
